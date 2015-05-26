@@ -1,0 +1,3 @@
+[submodule "public_html/cgi-bin/content"]
+	path = public_html/cgi-bin/content
+	url = https://github.com/RhoBetaEpsilonWPI/web-content.git
